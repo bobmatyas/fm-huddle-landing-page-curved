@@ -1,5 +1,15 @@
 # Frontend Mentor - Huddle landing page with curved sections
 
+My solution for the layout challenge. It was completed mobile first using CSS Grid and CSS Custom Properties.
+
+View online:
+
+[https://bobmatyas.github.io/fm-huddle-landing-page-curved/](https://bobmatyas.github.io/fm-huddle-landing-page-curved/)
+
+
+
+
+
 ![Header/intro section for the Huddle landing page with curved sections](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
