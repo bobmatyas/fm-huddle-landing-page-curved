@@ -31,7 +31,7 @@
 
   <a class="button button--pink" href="#">Get Started For Free</a>
  
-  <img src="images/screen-mockups.svg" class="img-responsive welcome__image">
+  <img src="images/screen-mockups.svg" class="img-responsive welcome__image" alt="screenshot of app">
 
   <div class="welcome__communities__holder">
   <div class="welcome__communities">
@@ -65,7 +65,7 @@
 <div class="flow">
   <div class="flow__content">
 
-  <img src="images/illustration-flowing-conversation.svg" class="img-responsive flow__content__image">
+  <img src="images/illustration-flowing-conversation.svg" class="img-responsive flow__content__image" alt=""> 
 
   <div class="flow__content__info">
   <h3 class="flow__content__header">Flowing Conversations</h3>
@@ -107,7 +107,8 @@
     <p class="footer__content__newsletter__text">To recieve tips on how to grow your community, sign up to our weekly newsletter. We’ll never send you spam or pass on your email address</p>
     
     <form class="footer__content__form">
-      <input type="email" class="footer__content__newsletter__email">
+      <label for="emailSubscribe" class="visually_hidden">Email:</label>
+      <input type="email" id="emailSubscribe" class="footer__content__newsletter__email">
       <input type="submit" class="footer__content__newsletter__submit" value="Subscribe">
     </form>
 
